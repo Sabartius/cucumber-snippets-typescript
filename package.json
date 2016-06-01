@@ -1,0 +1,22 @@
+{
+  "name": "cucumber-snippets-typescript",
+  "version": "0.0.1",
+  "description": "Typescript snippets for Cucumber.js",
+  "keywords": [
+    "cucumber",
+    "snippets",
+    "typescript"
+  ],
+  "author": {
+    "name": "Sabartius"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sabartius/cucumber-snippets-typescript.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sabartius/cucumber-snippets-typescript/issue"
+  },
+  "homepage": "https://github.com/Sabartius/cucumber-snippets-typescript#readme"
+}
