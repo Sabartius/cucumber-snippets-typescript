@@ -1,3 +1,5 @@
+[![npm version](https://badge.fury.io/js/cucumber-snippets-typescript.svg)](https://badge.fury.io/js/cucumber-snippets-typescript)
+
 # cucumber-snippets-typescript
 
 [TypeScript](https://github.com/Microsoft/TypeScript) snippets for [Cucumber.js](https://github.com/cucumber/cucumber-js)
