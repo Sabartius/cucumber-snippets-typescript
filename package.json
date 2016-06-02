@@ -1,6 +1,6 @@
 {
   "name": "cucumber-snippets-typescript",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Typescript snippets for Cucumber.js",
   "keywords": [
     "cucumber",
